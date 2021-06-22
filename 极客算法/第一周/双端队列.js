@@ -1,3 +1,4 @@
+// leetcode: https://leetcode-cn.com/problems/design-circular-deque/
 /**
  * 思路：队列可以使用js语法中的数据替代
  * 实质上就是对于数据方法的push,pop,unshift,shift这种方法的实现
